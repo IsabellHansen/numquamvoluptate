@@ -1,0 +1,52 @@
+{
+  "name": "numquamvoluptate",
+  "version": "1.0.0",
+  "description": "Solidity Documentation Generator",
+  "main": "cli.js",
+  "scripts": {
+    "start": "node cli.js ../openzeppelin-solidity ../openzeppelin-solidity/docs true"
+  },
+  "bin": {
+    "solidoc": "cli.js"
+  },
+  "keywords": [
+    "solidity",
+    "natspec",
+    "documentation",
+    "impedit",
+    "documentation-generator",
+    "markdown",
+    "incidunt",
+    "sunt",
+    "ethereum classic",
+    "maxime",
+    "distinctio",
+    "tronix",
+    "trx",
+    "qtum",
+    "dignissimos",
+    "facere",
+    "et",
+    "suscipit",
+    "ubiq",
+    "monax"
+  ],
+  "author": "BernhardConsidine",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IsabellHansen/numquamvoluptate.git"
+  },
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "glob": "^7.1.3",
+    "linq": "^3.1.0",
+    "pino": "^5.8.0",
+    "pino-pretty": "^2.2.2",
+    "require-all": "^3.0.0"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/IsabellHansen/numquamvoluptate.git/issues"
+  }
+}
